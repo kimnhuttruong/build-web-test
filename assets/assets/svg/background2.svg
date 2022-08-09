@@ -1,0 +1,12 @@
+<svg width="1125" height="2181" viewBox="0 0 1125 2181" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Background">
+<mask id="mask0_102_3570" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="1125" height="2181">
+<rect id="Rectangle" width="1125" height="2181" fill="white"/>
+</mask>
+<g mask="url(#mask0_102_3570)">
+<g id="y">
+<path id="Fill 4" fill-rule="evenodd" clip-rule="evenodd" d="M-345.232 597.299C-418.739 770.669 -366.882 2390.96 -169.641 2490.93C44.3403 2599.26 946.076 2587.24 1238.24 2496.1C1489.01 2417.89 1210 77.4019 1174.68 73.0684C1174.68 73.0684 1161.9 71.8553 1158.73 71.2277C270.583 -48.7663 -227.296 320.037 -345.232 597.299Z" fill="#EDF7EE"/>
+</g>
+</g>
+</g>
+</svg>

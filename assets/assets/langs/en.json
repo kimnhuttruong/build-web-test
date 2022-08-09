@@ -1,0 +1,14 @@
+{
+  "common": {
+    "welcome": "Welcome",
+    "btnApply": "Apply",
+    "btnCancel": "Cancel",
+    "btnNext": "Next"
+  },
+  "landing": {
+    "signIn": "Sign in",
+    "signUp": "Sign up",
+    "dontHaveAnAccount": "Don’t have an account?",
+    "healthcareDesignedAroundYou": "Healthcare designed around you"
+  }
+}
